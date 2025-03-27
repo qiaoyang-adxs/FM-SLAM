@@ -73,3 +73,6 @@ Modify the path according to the dataset
  ./Examples/RGB-D/rgbd_tum_masked Vocabulary/ORBvoc.txt Examples/RGB-D/TUM3.yaml PATH/TO/Dataset/rgbd_dataset_freiburg3_walking_xyz PATH/TO/Dataset/rgbd_dataset_freiburg3_walking_xyz/associations_modified.txt
 ```
 
+dataset Path
+
+https://drive.google.com/drive/folders/1VjdaVV_sw8v2iynP-OEYhLI0rR1QQigX?usp=drive_link
